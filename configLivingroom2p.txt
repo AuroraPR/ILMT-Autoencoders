@@ -8,7 +8,7 @@ anchors=8171,eb38
 
 other_users=ed9c
 other_anchors=6aca,399a,c492,,1fa0,a304,
-ini_date=2024-03-16 19:30:52
+ini_date=2024-03-16 19:31:00
 end_date=2024-03-16 20:26:35
 
 scenes=Scene1,Scene2,Scene3,Scene4,Scene5,Scene6
@@ -26,6 +26,9 @@ f02e=green
 maps=s1, s2, s3, s4, s5, s6, s7, s8, s9, s10, s11, s12, s13, s14, s15, s16, s17, s18, s19, s20, s21, s22, s23, s24, s25, s26, s27, s28
 w=8
 h=8
+
+offW=0
+offH=0
 
 8171=0x3
 eb38=4x0
